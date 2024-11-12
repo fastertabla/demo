@@ -470,7 +470,7 @@ export default function EmbeddedTopLevel() {
         <div className={classes.resolutionPartAccompanimentRight}>
           <img src='assets/img/thankyou.jpg' className={classes.pegaPartAccompanimentImage} />
           <br />
-          <button className={classes.resolutionButton}>Chat Now</button>
+          <button className={classes.resolutionButton}>Chat Now</button>]
         </div>
       </div>
     );
