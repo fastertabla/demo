@@ -120,7 +120,7 @@ export default function EmbeddedSwatch(props) {
     <div>
       <div>
         <button className={classes.swatchShopButton} onClick={() => props.onClick(level)}>
-          Apply Mortgage
+          Apply Agreement in Principle
         </button>
       </div>
     </div>
