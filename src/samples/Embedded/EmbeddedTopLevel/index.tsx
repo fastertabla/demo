@@ -444,7 +444,7 @@ export default function EmbeddedTopLevel() {
 
     return (
       <div>
-        <img src='./assets/img/header.jpg' />
+        <img src='./assets/img/header2.jpg' />
         <img src='./assets/img/aip1.jpg' />
         <img src='./assets/img/aip2.jpg' />
         <img src='./assets/img/aip3.jpg' />
@@ -480,9 +480,9 @@ export default function EmbeddedTopLevel() {
     <div>
       {/* <h4>React SDK: /embedded</h4> */}
 
-      {/*       <div className={classes.embedTopRibbon} id='embedded-top-level-ribbon'>
+      <div className={classes.embedTopRibbon} id='embedded-top-level-ribbon'>
         <img src='./assets/img/header1.jpg' />
-      </div> */}
+      </div>
       <div id='embedded-top-level-banner-buttons'>{bShowTriplePlayOptions ? getShowTriplePlayOptionsMarkup() : null}</div>
 
       <div id='embedded-top-level-resolution'>{bShowResolutionScreen ? getResolutionScreenMarkup() : null}</div>
