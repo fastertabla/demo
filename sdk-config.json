@@ -10,7 +10,7 @@
     "mashupClientId": "53705676603838553063",
     "mashupUserIdentifier": "ganesh@virtusa.com",
     "mashupClient_comment3": "Note: mashupPassword requires Base64 encoding",
-    "mashupPassword": "UnVsZXMqMDA1",
+    "mashupPassword": "QnJpZ2h0KjAwNQ==",
 
     "portalClientId_comment": "Client ID from the OAuth 2.0 Client Registration record used for portal use case",
     "portalClientId": "53705676603838553063"
