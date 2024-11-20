@@ -481,7 +481,7 @@ export default function EmbeddedTopLevel() {
       {/* <h4>React SDK: /embedded</h4> */}
 
       <div id='embedded-top-level-ribbon'>
-        <img src='./assets/img/aiprateheader.jpg' />
+        <img src='./assets/img/aipratesheader.jpg' />
       </div>
       <div id='embedded-top-level-banner-buttons'>{bShowTriplePlayOptions ? getShowTriplePlayOptionsMarkup() : null}</div>
 
